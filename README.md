@@ -9,4 +9,4 @@ Goal: code this for atleast 1 hour a day
   - at home setup: do this at least 1 hour a day (sat or sunday)
 
 Last edit info:
-  - video ends @: 00:00 
+  - video ends @: 39:50
