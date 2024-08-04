@@ -1,3 +1,6 @@
+/* https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax */ 
+//^basic formatting of .md file
+
 reference youtube vid: https://www.youtube.com/watch?v=ohnrC3gh9YI <br>
 date started: 8/4/2024 <br>
 Project: dev portfolio <br>
