@@ -1,4 +1,4 @@
-reference youtube vid: https://www.youtube.com/watch?v=ohnrC3gh9YI
+reference youtube vid: https://www.youtube.com/watch?v=ohnrC3gh9YI <br>
 date started: 8/4/2024
 Project: dev portfolio
 Goal: code this for atleast 1 hour a day
